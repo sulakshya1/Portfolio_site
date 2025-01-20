@@ -1,0 +1,12 @@
+{
+  "short_name": "",
+  "name": "Sulakshya",
+  "icons": [{
+    "src": "site_logo.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}
